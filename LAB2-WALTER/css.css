@@ -1,0 +1,91 @@
+ body {
+background-color: rgb(29, 199, 120);
+margin: 0px;
+padding: 0px;
+ }
+
+ .pagina1.html {
+     background-color: aqua;
+
+ }
+
+ .tarjetapeque {
+     width: 200px;
+     height: 200px;
+     border: 10px dotted red;
+     background-color: royalblue;
+     margin-bottom: 15px;
+ }
+
+ .cajadegatos {
+     width: 0px;
+     height: 0px;
+ }
+ .contenedor1 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 100px;
+ }
+
+ .tarjeta1 {
+     width: 260px;
+     height: 360px;
+     background-color: royalblue;
+     border-radius: 15px;
+     padding: 15px;
+     border: 15px solid greenyellow;
+     margin-right: 15px;
+     cursor: pointer;
+ }
+ .contenedor2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.tarjeta2 {
+    width: 260px;
+    height: 360px;
+    background-color: royalblue;
+    border-radius: 15px;
+    padding: 15px;
+    border: 15px solid greenyellow;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.contenedor3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.tarjeta3 {
+    width: 260px;
+    height: 360px;
+    background-color: royalblue;
+    border-radius: 15px;
+    padding: 15px;
+    border: 15px solid greenyellow;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+    height 100px;
+    width: auto;
+    max-width: 100x;
+    max-height: 100px;
+
+}
